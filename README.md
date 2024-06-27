@@ -1,2 +1,2 @@
-# kelompok-34
-Tugas kelompok mentoring
+# capstone-project
+capstone project
